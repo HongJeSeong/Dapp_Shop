@@ -1,0 +1,34 @@
+/* Styles go here */
+.border-bottom-5-custom{
+	border-bottom:5px solid;
+	border-color:#1fc831;
+}
+.bg-custom{
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.card-img-top {
+    width: 100%;
+    height: 30vh;
+}
+hr{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	border:0;
+	border:2px solid rgba(0, 0, 0, 0.1);
+
+}
+.card-floating-custom{
+	float:left;
+	margin:5px;
+	max-width:23%;
+}
+.ellipsis {
+    width: 95%;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    word-wrap: normal !important;
+    display: block;
+}
